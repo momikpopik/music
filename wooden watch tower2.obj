@@ -1,7 +1,7 @@
-# Blender v2.77 (sub 0) OBJ File: 'wooden watch tower2.blend'
+# Blender v2.93.18 OBJ File: 'telegraph.blend'
 # www.blender.org
-mtllib wooden watch tower2.mtl
-o watchtowerHigh_watchtower
+mtllib markizobj.mtl
+o dingus
 v -2.110930 8.267134 -2.110862
 v 2.110932 8.267134 -2.110862
 v 2.110930 8.267134 2.111000
